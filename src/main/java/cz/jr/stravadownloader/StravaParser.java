@@ -1,4 +1,4 @@
-package cz.jr.trailtour.scheduler.strava;
+package cz.jr.stravadownloader;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;

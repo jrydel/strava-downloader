@@ -1,4 +1,4 @@
-package cz.jr.trailtour.scheduler.strava;
+package cz.jr.stravadownloader;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

@@ -1,4 +1,4 @@
-package cz.jr.trailtour.scheduler.strava;
+package cz.jr.stravadownloader;
 
 /**
  * Created by Jiří Rýdel on 4/17/20, 1:42 PM

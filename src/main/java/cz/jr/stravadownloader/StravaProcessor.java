@@ -1,4 +1,4 @@
-package cz.jr.trailtour.scheduler.strava;
+package cz.jr.stravadownloader;
 
 import cz.jr.trailtour.scheduler.entites.Data;
 import cz.jr.trailtour.scheduler.trailtour.entities.TrailtourStage;
